@@ -12,7 +12,7 @@ The majority of my time with this project was spent finding appropriate images, 
 I decided to go with an art museum style level, as I felt it was very appropriate and I had some assets that matched that style quite well.  I feel that the displays I created do a good job of showing relevant images and examples while keeping with the art museum theme.  The narrations I made took me many iterations of re-writing and re-recording, but I feel that the audio is brief and informative as a result.  I would have liked to add some 3D models to the displays to fill out more space and add more items to look at while listening to the narrations, but relevant props were too specific to easily find.  
 
 #### Demo Video
-[![Museum Demo](https://github.com/jthom330/VR-Info-Booths/blob/master/VR-Info-Booths/Screenshots/Room.png)](https://youtu.be/kHp_4z3tXe8)
+[![Museum Demo](https://github.com/jthom330/VR-Info-Booths/blob/master/VR_Info/Screenshots/Room.png)](https://youtu.be/kHp_4z3tXe8)
 
 ## Development
 
@@ -21,7 +21,8 @@ Based on the assignment description, I simply wanted to created several differen
 
 Original Level Design Sketch: 
 
-![Sketch](https://github.com/jthom330/VR-Info-Booths/blob/master/VR-Info-Booths/Screenshots/sketch.png "Level Sketch")
+![Sketch](https://github.com/jthom330/VR-Info-Booths/blob/master/VR_Info/Screenshots/sketch.png "Level Sketch")
+
 
 ### Audience
 I found this assignment very difficult to create a persona or audience to design for, due to how basic and restrictive I felt the content needed to be.  Ultimately, I landed on an audience that have little to no real-world knowledge of VR and are not very tech-savvy.  I selected this audience because the format of having small virtual displays to show examples and explain newer technologies could be useful to those who do not keep up with tech trends like VR.
@@ -61,8 +62,8 @@ For this project I did two rounds of testing.  The first round was after getting
 
 Finished Game Screenshots:
 
-![Screenshot](https://github.com/jthom330/VR-Info-Booths/blob/master/VR-Info-Booths/Screenshots/Social.png "Screenshot")
-![Screenshot](https://github.com/jthom330/VR-Info-Booths/blob/master/VR-Info-Booths/Screenshots/Creation.png "Screenshot")
+![Screenshot](https://github.com/jthom330/VR-Info-Booths/blob/master/VR_Info/Screenshots/Social.png "Screenshot")
+![Screenshot](https://github.com/jthom330/VR-Info-Booths/blob/master/VR_Info/Screenshots/Creation.png "Screenshot")
 
 ### Level Design
 When starting this project, I had just two broad ideas for what I wanted the level to be like.  First, I wanted the playable area to be a wide open space, without separate rooms. Second, I wanted to have pictures and multiple 3D models and props for each display.  Since I didn't have a specific theme for the level in mind, I searched around the Unity assets store for a few examples that I liked.  I decided on the museum level because I thought it would work the best with the pictures and models I wanted to display.  Unfortunately, I was not able to find relevant 3D props for my displays and creating them would have taking much too long.  Since getting models didn't seem practical, I decided to find extra images and put them on Unity's primitive 3D shapes instead.  While I would have liked to have had better props for some of the displays, I feel like it turned out pretty well.
